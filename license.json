@@ -1,7 +1,7 @@
 {
   "admin": {
-    "password": "123456admin",
-    "expiry": "2030-12-31 23:59:59"
+    "password": "1309",
+    "expiry": "2026-08-16 23:59:59"
   },
   "client1": {
     "password": "pass_123456",
