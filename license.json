@@ -1,5 +1,14 @@
 {
-  "client_name": "admin",
-  "expiry_date": "2026-08-10",
-  "status": "active"
+  "admin": {
+    "password": "123456admin",
+    "expiry": "2030-12-31 23:59:59"
+  },
+  "client1": {
+    "password": "pass_123456",
+    "expiry": "2026-09-01 18:30:00"
+  },
+  "client2": {
+    "password": "mypassword",
+    "expiry": "2026-08-20 12:00:00"
+  }
 }
