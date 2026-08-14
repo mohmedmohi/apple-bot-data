@@ -1,10 +1,46 @@
 {
   "sara": {
-    "password": "1309",
-    "expiry": "2026-08-16 23:59:59"
+    "password": "1300",
+    "expiry": "2030-12-31 23:59:59"
   },
-  "client1": {
-    "password": "client_password_123",
-    "expiry": "2026-09-01 18:00:00"
+  "user01": {
+    "password": "AppPass#9101",
+    "expiry": "2026-09-30 23:59:59"
+  },
+  "user02": {
+    "password": "AppPass#9102",
+    "expiry": "2026-09-30 23:59:59"
+  },
+  "user03": {
+    "password": "AppPass#9103",
+    "expiry": "2026-09-30 23:59:59"
+  },
+  "user04": {
+    "password": "AppPass#9104",
+    "expiry": "2026-10-15 18:00:00"
+  },
+  "user05": {
+    "password": "AppPass#9105",
+    "expiry": "2026-10-15 18:00:00"
+  },
+  "user06": {
+    "password": "AppPass#9106",
+    "expiry": "2026-11-01 12:00:00"
+  },
+  "user07": {
+    "password": "AppPass#9107",
+    "expiry": "2026-11-01 12:00:00"
+  },
+  "user08": {
+    "password": "AppPass#9108",
+    "expiry": "2026-12-31 23:59:59"
+  },
+  "user09": {
+    "password": "AppPass#9109",
+    "expiry": "2026-12-31 23:59:59"
+  },
+  "user10": {
+    "password": "AppPass#9110",
+    "expiry": "2026-12-31 23:59:59"
   }
 }
