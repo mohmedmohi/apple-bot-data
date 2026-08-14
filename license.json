@@ -1,17 +1,10 @@
 {
-  "admin": {
+  "1309": {
     "password": "1309",
-    "expiry": "2026-08-16 23:59:59"
+    "expiry": "2030-12-31 23:59:59"
   },
   "client1": {
-    "password": "pass_123456",
-    "expiry": "2026-09-01 18:30:00"
-  },
-  "client2": {
-    "password": "mypassword",
-    "expiry": "2026-08-20 12:00:00"
-  },
-  "1100": {
-    "password": "1100",
-    "expiry": "2026-08-15 12:00:00"
+    "password": "client_password_123",
+    "expiry": "2026-09-01 18:00:00"
   }
+}
